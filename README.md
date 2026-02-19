@@ -24,3 +24,6 @@
 1. **Clone the repo:**
    ```bash
    git clone [https://github.com/yourusername/prediabet-mobile-app.git](https://github.com/yourusername/prediabet-mobile-app.git)
+
+App Link:
+https://app-clone-builder-zc4pdfz.rork.app
